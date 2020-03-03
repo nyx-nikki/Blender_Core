@@ -6,6 +6,6 @@ This repository is a collaborative effort to create, organise and compile univer
 
 
 Current contributors:
-ZeroOoC,
 
-TheRealKimona
+- ZeroOoC
+- TheRealKimona
